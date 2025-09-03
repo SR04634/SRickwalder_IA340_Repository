@@ -20,7 +20,7 @@ This repository contains code, notebooks, and data related to courseowkr in **IA
 - Python Scripts
 - Lab submissions
 - Lab 1: set up jupyterlab and load data from s3: (https://github.com/SR04634/SRickwalder_IA340_Repository/blob/main/lab1Rickwalder.ipynb)
-- Lab 2: data manipulation and visualization: ()
+- Lab 2: data manipulation and visualization: (https://github.com/SR04634/SRickwalder_IA340_Repository/commit/8988cbc65d5d20a695864f1f4f0c634e99d3469c)
 - Project documentation
 
 ## Course Assignments
